@@ -10,7 +10,7 @@ Il tutto è gestito tramite **Express**, con parsing XML affidato a **xmlbuilder
 
 ---
 
-## 🚀 Tecnologie utilizzate
+## Tecnologie utilizzate
 
 - **Node.js**
 - **Express.js**
@@ -27,10 +27,12 @@ Clona la repository:
 ```bash
 git clone https://github.com/tuo-utente/tuo-repo.git
 cd tuo-repo
+```
 
 Installa le dipendenze:
 
 ```bash
 node server.js
+```
 
 Il server partirà su: **http://localhost:3000**
